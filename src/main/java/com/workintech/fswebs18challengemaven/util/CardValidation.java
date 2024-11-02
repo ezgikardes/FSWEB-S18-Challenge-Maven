@@ -39,5 +39,4 @@ public class CardValidation {
             throw new CardException("Card not found", HttpStatus.NOT_FOUND);
         }
     }
-
 }
